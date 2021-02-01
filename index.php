@@ -46,14 +46,8 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <title></title>
-
-      <link href="vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
-      <link href="vendor/font-awesome-4.7/css/font-awesome.min.css" rel="stylesheet" media="all">
       
       <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
-      
-      <link href="vendor/select2/select2.min.css" rel="stylesheet" media="all">
-      <link href="vendor/datepicker/daterangepicker.css" rel="stylesheet" media="all">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.css">
       <link rel="stylesheet" href="https://cdn.datatables.net/1.10.22/css/dataTables.bootstrap4.min.css">
       <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.2.6/css/responsive.bootstrap4.min.css">
@@ -98,11 +92,6 @@
       </div>
       
       <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
-      <script src="vendor/select2/select2.min.js"></script>
-      
-
-      <script src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.min.js"></script>
-      <script src="https://cdn.datatables.net/1.10.22/js/dataTables.bootstrap4.min.js"></script>
       <script>
         function getProducts(filterInput) {
           var input = filterInput;
